@@ -7,3 +7,4 @@ Some excerpts from books which is not technology related.
 + [《权力的48条法则》——罗伯特·格林](https://github.com/thzt/book-excerpt/issues/4)
 + [《孙子兵法》——孙武](https://github.com/thzt/book-excerpt/issues/5)
 + [《劝学》——荀子](https://github.com/thzt/book-excerpt/issues/6)
++ [《布道之道》——瑞恩](https://github.com/thzt/book-excerpt/issues/7)

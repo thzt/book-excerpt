@@ -8,3 +8,4 @@ Some excerpts from books which is not technology related.
 + [《孙子兵法》——孙武](https://github.com/thzt/book-excerpt/issues/5)
 + [《劝学》——荀子](https://github.com/thzt/book-excerpt/issues/6)
 + [《布道之道》——瑞恩](https://github.com/thzt/book-excerpt/issues/7)
++ [《思考的技术》——大前研一 ](https://github.com/thzt/book-excerpt/issues/8)

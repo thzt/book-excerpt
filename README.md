@@ -14,3 +14,4 @@ Some excerpts from books which is not technology related.
 + [《硝烟中的Scrum和XP》——Henrik Kniberg](https://github.com/thzt/book-excerpt/issues/11)
 + [《极客与团队》——Brian W. Fitzpatrick/Ben Collins-Sussman](https://github.com/thzt/book-excerpt/issues/12)
 + [《Microsoft .NET企业级应用架构设计》——Dino Esposito、Andrea Saltarello](https://github.com/thzt/book-excerpt/issues/13)
++ [《领域驱动设计》——Eric Evans](https://github.com/thzt/book-excerpt/issues/14)

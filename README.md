@@ -16,3 +16,4 @@ Some excerpts from books which is not technology related.
 + [《Microsoft .NET企业级应用架构设计》——Dino Esposito、Andrea Saltarello](https://github.com/thzt/book-excerpt/issues/13)
 + [《领域驱动设计》——Eric Evans](https://github.com/thzt/book-excerpt/issues/14)
 + [《房间里的大象》——Niclas Hedhman](https://github.com/thzt/book-excerpt/issues/15)
++ [《经济学原理》——曼昆](https://github.com/thzt/book-excerpt/issues/16)

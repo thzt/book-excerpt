@@ -17,3 +17,4 @@ Some excerpts from books which is not technology related.
 + [《领域驱动设计》——Eric Evans](https://github.com/thzt/book-excerpt/issues/14)
 + [《房间里的大象》——Niclas Hedhman](https://github.com/thzt/book-excerpt/issues/15)
 + [《经济学原理》——曼昆](https://github.com/thzt/book-excerpt/issues/16)
++ [《UML和模式应用》——拉曼](https://github.com/thzt/book-excerpt/issues/17)

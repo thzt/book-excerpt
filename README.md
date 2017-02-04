@@ -19,3 +19,4 @@ Some excerpts from books which is not technology related.
 + [《经济学原理》——曼昆](https://github.com/thzt/book-excerpt/issues/16)
 + [《UML和模式应用》——拉曼](https://github.com/thzt/book-excerpt/issues/17)
 + [《人工智能·一种现代方法》——Peter Norvig / Stuart Russell](https://github.com/thzt/book-excerpt/issues/18)
++ [《程序员的职业素养》——Robert C.Martin ](https://github.com/thzt/book-excerpt/issues/19)

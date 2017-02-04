@@ -18,3 +18,4 @@ Some excerpts from books which is not technology related.
 + [《房间里的大象》——Niclas Hedhman](https://github.com/thzt/book-excerpt/issues/15)
 + [《经济学原理》——曼昆](https://github.com/thzt/book-excerpt/issues/16)
 + [《UML和模式应用》——拉曼](https://github.com/thzt/book-excerpt/issues/17)
++ [《人工智能·一种现代方法》——Peter Norvig / Stuart Russell](https://github.com/thzt/book-excerpt/issues/18)

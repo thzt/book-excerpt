@@ -23,3 +23,4 @@ Some excerpts from books which is not technology related.
 + [《Large-Scale C++ Software Design》——John Lakos](https://github.com/thzt/book-excerpt/issues/20)
 + [《The Princeton Companion to Mathematics》——Timothy Gowers](https://github.com/thzt/book-excerpt/issues/21)
 + [《谈判力》——罗杰·费希尔](https://github.com/thzt/book-excerpt/issues/22)
++ [《成果管理》——德鲁克](https://github.com/thzt/book-excerpt/issues/23)

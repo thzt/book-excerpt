@@ -26,3 +26,4 @@ Some excerpts from books which is not technology related.
 + [《成果管理》——德鲁克](https://github.com/thzt/book-excerpt/issues/23)
 + [《项目百态》——Tom Demarco / Peter Hruschka / Tim Lister / Suzanne Robertson / Steve McMenamin / James Robertson](https://github.com/thzt/book-excerpt/issues/24)
 + [《软技能：代码之外的生存指南》——John Sonmez](https://github.com/thzt/book-excerpt/issues/25)
++ [《营销的16个关键词》——叶茂中](https://github.com/thzt/book-excerpt/issues/26)

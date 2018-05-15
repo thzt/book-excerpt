@@ -29,3 +29,4 @@ Some excerpts from books which is not technology related.
 + [《营销的16个关键词》——叶茂中](https://github.com/thzt/book-excerpt/issues/26)
 + [《OKR工作法》—— 克里斯蒂娜·沃特克](https://github.com/thzt/book-excerpt/issues/27)
 + [《发现问题的思考术》—— 齋藤嘉則](https://github.com/thzt/book-excerpt/issues/28)
++ [《人生定位》—— 阿尔·里斯 / 杰克·特劳特](https://github.com/thzt/book-excerpt/issues/29)

@@ -33,3 +33,4 @@ Some excerpts from books which is not technology related.
 + [《定位》—— 艾·里斯 / 杰克·特劳特](https://github.com/thzt/book-excerpt/issues/30)
 + [《咨询的奥秘》—— 杰拉尔德·温伯格](https://github.com/thzt/book-excerpt/issues/31)
 + [《持续集成》—— Paul M.Duvall / Steve Matyas / Andrew Glover](https://github.com/thzt/book-excerpt/issues/32)
++ [《持续交付》—— Jez Humble / David Farley](https://github.com/thzt/book-excerpt/issues/33)

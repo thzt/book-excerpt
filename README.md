@@ -36,3 +36,4 @@ Some excerpts from books which is not technology related.
 + [《持续交付》—— Jez Humble / David Farley](https://github.com/thzt/book-excerpt/issues/33)
 + [《DevOps 实践指南》—— Gene Kim / Jez Humble / Patrick Debois / John Willis](https://github.com/thzt/book-excerpt/issues/34)
 + [《精益思想》—— 詹姆斯.沃麦克 / 丹尼尔.琼斯](https://github.com/thzt/book-excerpt/issues/35)
++ [《精益开发与看板方法》—— 李智桦](https://github.com/thzt/book-excerpt/issues/36)

@@ -38,3 +38,4 @@ Some excerpts from books which is not technology related.
 + [《精益思想》—— 詹姆斯.沃麦克 / 丹尼尔.琼斯](https://github.com/thzt/book-excerpt/issues/35)
 + [《精益开发与看板方法》—— 李智桦](https://github.com/thzt/book-excerpt/issues/36)
 + [《软件研发之道》—— Jim McCarthy / Michele McCarthy](https://github.com/thzt/book-excerpt/issues/37)
++ [《国富论》—— 亚当·斯密](https://github.com/thzt/book-excerpt/issues/38)

@@ -39,3 +39,4 @@ Some excerpts from books which is not technology related.
 + [《精益开发与看板方法》—— 李智桦](https://github.com/thzt/book-excerpt/issues/36)
 + [《软件研发之道》—— Jim McCarthy / Michele McCarthy](https://github.com/thzt/book-excerpt/issues/37)
 + [《国富论》—— 亚当·斯密](https://github.com/thzt/book-excerpt/issues/38)
++ [《用户体验度量》—— 特里斯 / 阿伯特](https://github.com/thzt/book-excerpt/issues/39)

@@ -42,3 +42,4 @@ Some excerpts from books which is not technology related.
 + [《用户体验度量》—— 特里斯 / 阿伯特](https://github.com/thzt/book-excerpt/issues/39)
 + [《高敏感是种天赋》 —— 伊尔斯·桑德](https://github.com/thzt/book-excerpt/issues/40)
 + [《超级分析力训练》 —— 爱德华·罗夫丁](https://github.com/thzt/book-excerpt/issues/41)
++ [《设计心理学》 —— 唐纳德·A·诺曼](https://github.com/thzt/book-excerpt/issues/42)

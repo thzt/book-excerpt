@@ -44,3 +44,4 @@ Some excerpts from books which is not technology related.
 + [《超级分析力训练》 —— 爱德华·罗夫丁](https://github.com/thzt/book-excerpt/issues/41)
 + [《设计心理学》 —— 唐纳德·A·诺曼](https://github.com/thzt/book-excerpt/issues/42)
 + [《格鲁夫给经理人的第一课》—— 安迪·格鲁夫](https://github.com/thzt/book-excerpt/issues/43)
++ [《卓有成效的管理者》—— 彼得·德鲁克](https://github.com/thzt/book-excerpt/issues/44)

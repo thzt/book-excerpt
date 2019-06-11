@@ -46,3 +46,4 @@ Some excerpts from books which is not technology related.
 + [《格鲁夫给经理人的第一课》—— 安迪·格鲁夫](https://github.com/thzt/book-excerpt/issues/43)
 + [《卓有成效的管理者》—— 彼得·德鲁克](https://github.com/thzt/book-excerpt/issues/44)
 + [《事实》—— 汉斯·罗斯林 / 欧拉·罗斯林 / 安娜·罗斯林·罗朗德](https://github.com/thzt/book-excerpt/issues/45)
++ [《断舍离》—— 山下英子](https://github.com/thzt/book-excerpt/issues/46)

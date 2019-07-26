@@ -48,3 +48,4 @@ Some excerpts from books which is not technology related.
 + [《事实》—— 汉斯·罗斯林 / 欧拉·罗斯林 / 安娜·罗斯林·罗朗德](https://github.com/thzt/book-excerpt/issues/45)
 + [《断舍离》—— 山下英子](https://github.com/thzt/book-excerpt/issues/46)
 + [《Clean Architecture》—— Robert C. Martin](https://github.com/thzt/book-excerpt/issues/47)
++ [《自私的基因》—— 理查德·道金斯](https://github.com/thzt/book-excerpt/issues/48)

@@ -50,3 +50,4 @@ Some excerpts from books which is not technology related.
 + [《Clean Architecture》—— Robert C. Martin](https://github.com/thzt/book-excerpt/issues/47)
 + [《自私的基因》—— 理查德·道金斯](https://github.com/thzt/book-excerpt/issues/48)
 + [《参与感》—— 黎万强](https://github.com/thzt/book-excerpt/issues/49)
++ [《软件测试》—— Ron Patton](https://github.com/thzt/book-excerpt/issues/50)

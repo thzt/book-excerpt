@@ -51,3 +51,5 @@ Some excerpts from books which is not technology related.
 + [《自私的基因》—— 理查德·道金斯](https://github.com/thzt/book-excerpt/issues/48)
 + [《参与感》—— 黎万强](https://github.com/thzt/book-excerpt/issues/49)
 + [《软件测试》—— Ron Patton](https://github.com/thzt/book-excerpt/issues/50)
++ [《被讨厌的勇气》—— 岸见一郎 / 古贺史健 ](https://github.com/thzt/book-excerpt/issues/51)
+

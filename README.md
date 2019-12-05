@@ -52,4 +52,5 @@ Some excerpts from books which is not technology related.
 + [《参与感》—— 黎万强](https://github.com/thzt/book-excerpt/issues/49)
 + [《软件测试》—— Ron Patton](https://github.com/thzt/book-excerpt/issues/50)
 + [《被讨厌的勇气》—— 岸见一郎 / 古贺史健 ](https://github.com/thzt/book-excerpt/issues/51)
++ [《中国历代政治得失》—— 钱穆](https://github.com/thzt/book-excerpt/issues/52)
 

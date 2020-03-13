@@ -54,4 +54,5 @@ Some excerpts from books which is not technology related.
 + [《被讨厌的勇气》—— 岸见一郎 / 古贺史健 ](https://github.com/thzt/book-excerpt/issues/51)
 + [《中国历代政治得失》—— 钱穆](https://github.com/thzt/book-excerpt/issues/52)
 + [《当良知沉睡：辨认身边的反社会人格者》 —— Martha Stout](https://github.com/thzt/book-excerpt/issues/53)
++ [《安全编程：代码静态分析》—— Brian Chess / Jacob West](https://github.com/thzt/book-excerpt/issues/54)
 

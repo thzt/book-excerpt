@@ -57,5 +57,5 @@ Some excerpts from books which is not technology related.
 + [《安全编程：代码静态分析》—— Brian Chess / Jacob West](https://github.com/thzt/book-excerpt/issues/54)
 + [《软件调试》 —— 张银奎](https://github.com/thzt/book-excerpt/issues/55)
 + [《10 人以下小团队管理手册》 —— 堀之内克彦](https://github.com/thzt/book-excerpt/issues/56)
-+ [The Manager's Path —— 《Camille Fournier》](https://github.com/thzt/book-excerpt/issues/57)
++ [《The Manager's Path》 —— Camille Fournier](https://github.com/thzt/book-excerpt/issues/57)
 

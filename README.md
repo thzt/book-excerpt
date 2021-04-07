@@ -58,4 +58,5 @@ Some excerpts from books which is not technology related.
 + [《软件调试》 —— 张银奎](https://github.com/thzt/book-excerpt/issues/55)
 + [《10 人以下小团队管理手册》 —— 堀之内克彦](https://github.com/thzt/book-excerpt/issues/56)
 + [《The Manager's Path》 —— Camille Fournier](https://github.com/thzt/book-excerpt/issues/57)
++ [《持续交付 2.0》 —— 乔梁](https://github.com/thzt/book-excerpt/issues/58)
 

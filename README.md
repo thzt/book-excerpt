@@ -60,4 +60,5 @@ Some excerpts from books which is not technology related.
 + [《The Manager's Path》 —— Camille Fournier](https://github.com/thzt/book-excerpt/issues/57)
 + [《持续交付 2.0》 —— 乔梁](https://github.com/thzt/book-excerpt/issues/58)
 + [《Effective TypeScript》 —— Dan Vanderkam](https://github.com/thzt/book-excerpt/issues/59)
++ [《格鲁夫给经理人的第一课》 —— 安迪·格鲁夫](https://github.com/thzt/book-excerpt/issues/60)
 

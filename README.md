@@ -61,4 +61,5 @@ Some excerpts from books which is not technology related.
 + [《持续交付 2.0》 —— 乔梁](https://github.com/thzt/book-excerpt/issues/58)
 + [《Effective TypeScript》 —— Dan Vanderkam](https://github.com/thzt/book-excerpt/issues/59)
 + [《格鲁夫给经理人的第一课》 —— 安迪·格鲁夫](https://github.com/thzt/book-excerpt/issues/60)
++ [《大教堂与集市》—— Eric S.Raymond](https://github.com/thzt/book-excerpt/issues/61)
 

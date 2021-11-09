@@ -63,3 +63,4 @@ Some excerpts from books which is not technology related.
 + [《格鲁夫给经理人的第一课》 —— 安迪·格鲁夫](https://github.com/thzt/book-excerpt/issues/60)
 + [《大教堂与集市》—— Eric S.Raymond](https://github.com/thzt/book-excerpt/issues/61)
 + [《高效能团队模式》—— Matthew Skelton / Manuel Pais](https://github.com/thzt/book-excerpt/issues/62)
++ [《管理学》 —— 王文周](https://github.com/thzt/book-excerpt/issues/63)

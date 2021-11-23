@@ -64,3 +64,6 @@ Some excerpts from books which is not technology related.
 + [《大教堂与集市》—— Eric S.Raymond](https://github.com/thzt/book-excerpt/issues/61)
 + [《高效能团队模式》—— Matthew Skelton / Manuel Pais](https://github.com/thzt/book-excerpt/issues/62)
 + [《管理学》 —— 王文周](https://github.com/thzt/book-excerpt/issues/63)
++ [《DevOps 入门与实践》—— DevOps引入指南研究会](https://github.com/thzt/book-excerpt/issues/64)
+
++ [《自私的基因》—— 理查德·道金斯](https://github.com/thzt/book-excerpt/issues/48)

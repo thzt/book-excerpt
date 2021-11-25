@@ -66,3 +66,4 @@ Some excerpts from books which is not technology related.
 + [《管理学》 —— 王文周](https://github.com/thzt/book-excerpt/issues/63)
 + [《DevOps 入门与实践》—— DevOps引入指南研究会](https://github.com/thzt/book-excerpt/issues/64)
 + [《快速开发》—— Steve McConnell](https://github.com/thzt/book-excerpt/issues/65)
++ [《企业级 DevOps：技术与工具实践》—— 刘淼 / 张笑梅](https://github.com/thzt/book-excerpt/issues/66)

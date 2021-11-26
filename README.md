@@ -68,3 +68,4 @@ Some excerpts from books which is not technology related.
 + [《快速开发》—— Steve McConnell](https://github.com/thzt/book-excerpt/issues/65)
 + [《企业级 DevOps：技术与工具实践》—— 刘淼 / 张笑梅](https://github.com/thzt/book-excerpt/issues/66)
 + [《顶尖管理能力》 —— 比斯盖特·舒尔茨](https://github.com/thzt/book-excerpt/issues/67)
++ [《解决：营销就是解决竞争》 —— 路长全](https://github.com/thzt/book-excerpt/issues/68)

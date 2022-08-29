@@ -71,3 +71,4 @@ Some excerpts from books which is not technology related.
 + [《解决：营销就是解决竞争》 —— 路长全](https://github.com/thzt/book-excerpt/issues/68)
 + [《图解德鲁克：战略整理术》 —— 藤屋伸二](https://github.com/thzt/book-excerpt/issues/69)
 + [《咨询的奥秘 · 续》 —— 杰拉尔德·温伯格](https://github.com/thzt/book-excerpt/issues/70)
++ [《软件研发效能提升之美》—— 吴骏龙 / 茹炳晟](https://github.com/thzt/book-excerpt/issues/71)

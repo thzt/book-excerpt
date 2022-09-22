@@ -74,3 +74,4 @@ Some excerpts from books which is not technology related.
 + [《软件研发效能提升之美》—— 吴骏龙 / 茹炳晟](https://github.com/thzt/book-excerpt/issues/71)
 + [《Google 软件工程》—— [美]提图斯·温特斯 / [美]汤姆·曼什雷克 / [美]海勒姆·赖特](https://github.com/thzt/book-excerpt/issues/72)
 + [《实例化需求》—— Gojko Adzic](https://github.com/thzt/book-excerpt/issues/73)
++ [《善工利器》—— [美] 米奇·W. 蒙托（Mickey W. Mantle） / [美] 罗恩·利克蒂](https://github.com/thzt/book-excerpt/issues/74)

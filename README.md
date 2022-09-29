@@ -75,3 +75,4 @@ Some excerpts from books which is not technology related.
 + [《Google 软件工程》—— [美]提图斯·温特斯 / [美]汤姆·曼什雷克 / [美]海勒姆·赖特](https://github.com/thzt/book-excerpt/issues/72)
 + [《实例化需求》—— Gojko Adzic](https://github.com/thzt/book-excerpt/issues/73)
 + [《善工利器》—— [美] 米奇·W. 蒙托（Mickey W. Mantle） / [美] 罗恩·利克蒂](https://github.com/thzt/book-excerpt/issues/74)
++ [《Scrum：用一半的时间、做两倍的事》 —— 傑夫‧薩瑟蘭](https://github.com/thzt/book-excerpt/issues/75)

@@ -77,3 +77,4 @@ Some excerpts from books which is not technology related.
 + [《善工利器》—— [美] 米奇·W. 蒙托（Mickey W. Mantle） / [美] 罗恩·利克蒂](https://github.com/thzt/book-excerpt/issues/74)
 + [《Scrum：用一半的时间、做两倍的事》 —— 傑夫‧薩瑟蘭](https://github.com/thzt/book-excerpt/issues/75)
 + [《编程卓越之道（卷 3）：软件工程化》—— Randall Hyde](https://github.com/thzt/book-excerpt/issues/76)
++ [《做对产品》—— [意大利] 阿尔贝托，·索维亚（Alberto Savoia）](https://github.com/thzt/book-excerpt/issues/77)

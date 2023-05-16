@@ -79,3 +79,4 @@ Some excerpts from books which is not technology related.
 + [《编程卓越之道（卷 3）：软件工程化》—— Randall Hyde](https://github.com/thzt/book-excerpt/issues/76)
 + [《做对产品》—— [意大利] 阿尔贝托，·索维亚（Alberto Savoia）](https://github.com/thzt/book-excerpt/issues/77)
 + [《关乎天下》 —— 关明生](https://github.com/thzt/book-excerpt/issues/78)
++ [《中国式沟通智慧》—— 孙玉忠](https://github.com/thzt/book-excerpt/issues/79)
